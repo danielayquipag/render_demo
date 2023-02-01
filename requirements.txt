@@ -16,6 +16,5 @@ protobuf==4.21.12
 psycopg2==2.8.6
 pyOpenSSL==23.0.0
 pysftp==0.2.9
-wincertstore==0.2.1
 xmlrpclib==1.0.1
 gunicorn
