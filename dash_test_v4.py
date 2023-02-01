@@ -18,6 +18,7 @@ from datetime import datetime
 
 # App
 app = Dash(__name__)
+server = app.server
 
 # # Keep this out of source code repository - save in a file or a database
 # VALID_USERNAME_PASSWORD_PAIRS = { 'Admin': 'corporateactions' }
